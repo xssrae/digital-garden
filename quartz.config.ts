@@ -6,6 +6,18 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
+export interface FullPageLayout {
+  head: QuartzComponent // single component
+  header: QuartzComponent[] // laid out horizontally
+  beforeBody: QuartzComponent[] // laid out vertically
+  pageBody: QuartzComponent // single component
+  afterBody: QuartzComponent[] // laid out vertically
+  left: QuartzComponent[] // vertical on desktop and tablet, horizontal on mobile
+  right: QuartzComponent[] // vertical on desktop, horizontal on tablet and mobile
+  footer: QuartzComponent // single component
+}
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪴 Quartz 4.0",
@@ -31,25 +43,25 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          lightgray: "#acb0be",
+          gray: "#7c7f93",
+          darkgray: "#5c5f77",
+          dark: "#4c4f69",
+          secondary: "#3c1c64",
+          tertiary: "#9d74d2",
+          highlight: "#245f7b",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          light: "#cdd6f4",
+          lightgray: "#a5adce",
+          gray: "#626880",
+          darkgray: "#303446",
+          dark: "#11111b",
+          secondary: "#cba6f7",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          highlight: "#efb8b8",
+          textHighlight: "#85c1dc",
         },
       },
     },
