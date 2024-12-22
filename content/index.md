@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Bem vindo ao meu blog!
+tags:
+  - home
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Aqui vc encontra mto sobre mim ...
