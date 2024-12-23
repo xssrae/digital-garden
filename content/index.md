@@ -4,7 +4,7 @@ tags:
   - home
 ---
 ## Quem escreve neste blog?
-Olá, eu sou a **Rae**! Sou estudante do ultimo ano de Ciência da Computação e atualmente trabalho como Estagiária de Engenharia de TI no ==[Itaú Unibanco.](https://www.itau.com.br/)== Criei esse blog para seu meu "Segundo Cérebro", escrevendo coisas que me veem a mente, meus estudos, tutoriais e desabafos sobre meu cotidiano ou assuntos que me interessam.
+Olá, eu sou a **Rae**! Sou estudante do ultimo ano de Ciência da Computação e atualmente trabalho como Estagiária de Engenharia de TI no [==Itaú Unibanco.==](https://www.itau.com.br/). Criei esse blog para seu meu "Segundo Cérebro", escrevendo coisas que me veem a mente, meus estudos, tutoriais e desabafos sobre meu cotidiano ou assuntos que me interessam.
 
 - Atualmente estou estudando Desenvolvimento ==Full-Stack== com as tecnologias Java Spring Boot e Angular para me preparar para um novo time dentro do meu cargo atual.
 - Além de Dev, sou alguém extremamente interessada em assuntos de **Cybersecurity**, atualmente estudo **Mobile Security** e **Application Security**
