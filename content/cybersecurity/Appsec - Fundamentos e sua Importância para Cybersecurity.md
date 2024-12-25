@@ -4,7 +4,7 @@ tags:
   - cybersecurity
 ---
 # Introdução a Application Security
-![[Pasted image 20241222185626.png]]
+![[Pasted image 20241225192441.png]]
 
 **Application Security** é uma área da Cybersecurity que busca garantir a segurança e proteção do software contra _**ameaças cibernéticas**_. Isso inclui defesa contra ataques hackers, roubo de dados, malware e outras ameaças. Essa prática ajuda a preservar a reputação da empresa, manter a confiança dos clientes e assegurar a conformidade com as regulamentações de segurança de dados.
 

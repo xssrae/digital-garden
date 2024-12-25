@@ -4,7 +4,7 @@ tags:
   - psicologia
   - reflexoes
 ---
-![[dark academia.jpg]]
+![[Pasted image 20241225193217.png]]
 ## Um pouco de passado
 Eu sempre me considerei uma pessoa muito reflexiva e pensativa. Em algum momento da época da escola, onde todos os meus amigos tinham sumido, me debrucei em livros e escrita de fanfics sobre os livros que eu mais curtia, postando em sites como Wattpad. Essas ficções acabavam se tornando ate historias originais, onde eu explorava assuntos como fantasia e distopia, criando meus próprios personagens, na tentativa de fugir do mundo real.
 
@@ -20,6 +20,7 @@ Até pouco tempo infelizmente eu achava minha escrita ruim,  que eram apenas pen
 Hoje adotei definitivamente a escrita na minha vida. Escrevo não só meus sentimentos diários, mas como gosto de escrever **artigos** e **estudos** também. De forma nenhuma a prática substitui a terapia, mas pelo menos para mim, ajuda a **organizar todo o meu caos**
 
 ## Sugestões para Mentes Ansiosas
+![[Pasted image 20241225193257.png]]
 Se eu pudesse indicar algo para uma **mente ansiosa e confusa** como a minha, com certeza seria a **escrita**, o **desenho**, ou qualquer hobbie que envolva arte ou **expressão humana**. 
 
 Caso você não curta escrever, porque não *desenhar os momentos*? Tente transmitir tudo o que você tem passado. Utilize cores e formas. Crie personagens ou desenhe você e outras pessoas. Animais, objetos, natureza, etc...
@@ -27,5 +28,3 @@ Caso você não curta escrever, porque não *desenhar os momentos*? Tente transm
 Caso você não seja alguém do desenho também, tente *cantar*, ou se também não der, uma boa também é escolher *musicas* que transmitam os *sentimentos* que voce sente, crie uma playlist e tente entender tudo o que se passa dentro de você em quanto escuta. Se possível anote esses sentimentos. 
 
 Tudo isso pode contribuir sendo um alivio momentâneo, uma forma de se entender melhor ou até mesmo (como foi o meu caso) virar um **hobbie definitivo** na sua vida.
-
-# Referências
