@@ -38,6 +38,8 @@ Eu tenho uma *''cegueira temporal''* que vêm do meu [TDAH](), onde eu perco a n
 Para resolver isso, pensei em adotar um planner que tivesse essa visualização de horários, onde eu possa traçar uma linha para demarcar o tempo estimado que gastarei naquela atividade. 
 
 
+
+
 ![[IMG_2945.jpg]]
 
 # Segundo método: "TDAH Planner" ou Check-Lists
