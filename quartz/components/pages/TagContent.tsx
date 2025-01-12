@@ -38,20 +38,22 @@ export default ((opts?: Partial<TagContentOptions>) => {
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-    const classes = cssClasses.join(" ")
+    const classes = ["popover-hint", ...cssClasses].join(" ")
     if (tag === "/") {
-      const tags = [
+      const unfilteredtags = [
         ...new Set(
           allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
         ),
       ].sort((a, b) => a.localeCompare(b))
+      const _excludeStrings = ["exclude"]
+      const tags = unfilteredtags.filter(tag => !_excludeStrings.some(excludeString => tag.includes(excludeString)));
       const tagItemMap: Map<string, QuartzPluginData[]> = new Map()
       for (const tag of tags) {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
       return (
-        <div class="popover-hint">
-          <article class={classes}>
+        <div class={classes}>
+          <article>
             <p>{content}</p>
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
@@ -108,15 +110,22 @@ export default ((opts?: Partial<TagContentOptions>) => {
         allFiles: pages,
       }
 
+      // If baseUrl contains a pathname after the domain, use this as the home link
+      const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+      const baseDir = url.pathname
+
       return (
         <div class={classes}>
           <article>{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
+            <p style={{ textAlign: 'center', opacity: 0.7 }}>───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───</p>
             <div>
               <PageList {...listProps} />
             </div>
           </div>
+          <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+          <hr />
         </div>
       )
     }
@@ -125,4 +134,3 @@ export default ((opts?: Partial<TagContentOptions>) => {
   TagContent.css = style + PageList.css
   return TagContent
 }) satisfies QuartzComponentConstructor
-
