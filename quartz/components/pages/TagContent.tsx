@@ -125,3 +125,4 @@ export default ((opts?: Partial<TagContentOptions>) => {
   TagContent.css = style + PageList.css
   return TagContent
 }) satisfies QuartzComponentConstructor
+

@@ -1,3 +1,9 @@
+---
+tags:
+  - psicologia
+  - TDAH
+  - disfunção_cognitiva
+---
 # O que é TDAH?
 
 O Transtorno do Déficit de Atenção com Hiperatividade (TDAH) é um transtorno *neurobiológico*, de causas *genéticas*, que aparece na infância e frequentemente acompanha o indivíduo por toda a sua vida. Ele se caracteriza principalmente por sintomas de **desatenção**, **hiperatividade** e **impulsividade**.
@@ -12,3 +18,8 @@ Mesmo com todo o conhecimento sobre o transtorno de déficit de atenção e hip
 
 - **Córtex frontal:** é a região do cérebro responsável por funções como a retenção da atenção, memória, planejamento e inibição, entre outras. Nas **crianças com TDAH**, essa área do cérebro é aparentemente mais fina e amadurece de forma mais lenta do que o normal – podendo chegar a até três anos de “atraso”, em comparação com crianças sem TDAH. É importante ressaltar que, em alguns casos, o **córtex frontal** tornou-se mais espesso e amadureceu, passando a acompanhar o estágio de crescimento natural. Essa pode ser uma das razões pelas quais algumas crianças deixam de apresentar os sintomas do **transtorno de déficit de atenção e hiperatividade**, naturalmente, conforme o desenvolvimento.
 - **Córtex motor:** esta é a área do cérebro que controla os movimentos. No mesmo estudo, as imagens de ressonância magnética mostraram que nas crianças com TDAH o **córtex motor** cresce de forma muito mais acelerada do que nas crianças sem TDAH. Isso pode causar a movimentação excessiva de algumas crianças com TDAH, desde muito cedo.
+
+# Desafios que eu enfrento vivendo com o Transtorno
+
+## Disfunção Cognitiva 
+#disfunção_cognitiva 
